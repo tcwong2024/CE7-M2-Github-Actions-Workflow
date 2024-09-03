@@ -1,4 +1,4 @@
-# Sample-Github-Actions
+# Github Actions
 
 ## WorkFlow Exercise
 **WorkFlow 1** : Trigger the workflow on push to the main branch.
