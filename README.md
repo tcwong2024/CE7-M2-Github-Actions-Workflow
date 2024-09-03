@@ -1,7 +1,7 @@
 # Sample-Github-Actions
 
 ## WorkFlow Exercise
-WorkFlow 1 : Trigger the workflow on push to the main branch.
+**WorkFlow 1** : Trigger the workflow on push to the main branch.
 - Change the name on yml file.
 
 WorkFlow 2 : Trigger the workflow via github console
