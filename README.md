@@ -1,6 +1,7 @@
 # Sample-Github-Actions
 
-* WorkFlow 1 : Trigger the workflow on push to the main branch (change the name)
+* WorkFlow 1 : Trigger the workflow on push to the main branch.
+                - Change the name on yml file.
 * WorkFlow 2 : Trigger the workflow via github console (manual run)
 * WorkFlow 3 : Trigger the workflow via github console and using variables inputs
 * WorkFlow 4 : Trigger the workflow on push to the main branch and use github settings > secrets and variables >
