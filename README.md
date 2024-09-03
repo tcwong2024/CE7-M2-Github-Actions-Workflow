@@ -14,5 +14,7 @@
                 * Compare & pull request to "main" branch
                 * Get the variable and display on github actions.
 * WorkFlow 6 : Trigger the workflow via github console and using variables inputs
+                * Create environment for dev and uat
+                * Push workflow 6
 * WorkFlow 7 : Trigger the workflow via github console a
 * WorkFlow 8 : Trigger the workflow via github console and using variables inputs
